@@ -28,10 +28,15 @@ Instead of using a keyboard or mouse, the player can control the paddle by movin
 Hand-Controlled-Pong-Game/
 │
 ├── MiniProject/
+
 │   ├── main.py
+
 │   ├── demo.py
+
 │   └── Resources/
+
 │
+
 └── README.md
 
 ⚙️ Installation
